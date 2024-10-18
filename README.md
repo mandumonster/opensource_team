@@ -1,6 +1,6 @@
 # 제안서
+![image](https://github.com/user-attachments/assets/cf29cffd-a37d-449b-86dd-035cded2db11)
 
-![image](https://github.com/user-attachments/assets/53bde2e8-e6af-451e-b807-07a45cccdf05)
 ### 목표
 기술 사용에 어려움을 겪는 사람들을 위해, 기술에 대한 접근성을 높이고 삶의 질을 개선하는 음성 인식 기능과 연령대별 맞춤 서비스 제공 기능을 탑재한 여행 어플 개발
 ### 핵심 내용
